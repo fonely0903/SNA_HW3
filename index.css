@@ -1,0 +1,107 @@
+header > h1{
+	text-align: center;
+}
+
+nav{
+	text-align: center;
+}
+nav > h4{
+	display: inline;
+	margin: 20px;
+}
+HR{
+	margin-top: 20px;
+}
+
+p:hover{
+	background-color: #FF8C00;
+}
+
+.font-size-btn{
+	display: inline;
+	margin-left:50px;
+}
+
+article{
+	margin: 10px 2px 2px 2px;
+	background-color: #FFFCEC;
+	border-radius: 5px;
+	height: auto;
+}
+
+aside{
+	padding: 20px 0; 
+	margin: 40px 2px 2px 2px;
+	background-color: #FFF4C1;
+	border-radius: 5px;
+	height: auto;
+}
+
+footer{
+	background-color: grey;
+	height: 120px;
+}
+
+iframe{
+	padding: auto;
+}
+
+.datetime{
+	color: #7B7B7B;
+	font-size: 0.75em;
+}
+
+#garfield{
+	float: right;
+	margin:5px;
+}
+
+.ad{
+	padding: auto;
+}
+
+table{
+	margin:10px auto auto 20px;
+	color: #fff;
+}
+table th,td{
+	padding-right: 10px;
+}
+
+
+.back-to-top{
+	margin-top: 200px ;
+	text-align: center;
+}
+
+.messagemeForm{
+	display: none;
+}
+.messagemeForm input[type=text]:focus{
+	background-color: #FFFFBB;
+}
+.messagemeForm textarea:focus{
+	background-color: #FFFFBB;
+}
+
+input[type="submit"]{
+	
+}
+
+#userIMG{
+	width: 75px;
+	height: 75px;
+	background-color: grey;
+	padding: 0px;
+}
+.userInfo{
+	display: flex;
+}
+.userInfo1{
+	flex: initial;
+	width: 75px;
+}
+.userInfo2{
+	flex: 1;
+	padding-left: 10px;
+}
